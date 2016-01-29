@@ -1,6 +1,6 @@
 FROM petrepatrasc/docker-ubuntu
 MAINTAINER Petre Pătrașc <petre@dreamlabs.ro>
-ENV REFRESHED_AT 2016-01-29 21:41:00
+ENV REFRESHED_AT 2016-01-30 21:41:00
 
 # Install nginx
 RUN add-apt-repository ppa:nginx/stable && \
